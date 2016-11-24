@@ -14,7 +14,7 @@ def addStudents():
     print(count)
 
     index = count % slots
-
+# Divides left operand by right operand and returns remainder
     print("index = ", index)
 
     tempDict[index] = stuName
